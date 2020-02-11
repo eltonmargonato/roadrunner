@@ -16,4 +16,4 @@ spring:
       registerWithEureka: true
       fetchRegistry: true
       serviceUrl:
-          defaultZone: http://ec2-54-208-198-150.compute-1.amazonaws.com:8761/eureka     
+          defaultZone: http://ec2-54-208-198-150.compute-1.amazonaws.com:8765/eureka     
