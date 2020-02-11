@@ -13,7 +13,7 @@ server:
 spring:
   eureka:
   instance:
-    preferIpAddress: true
+    hostname: ec2-54-208-198-150.compute-1.amazonaws.com
   client:
     registerWithEureka: true
     fetchRegistry: true
