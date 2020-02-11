@@ -1,7 +1,7 @@
 server.port: 8080
 spring.eureka.client.registerWithEureka: true
 spring.eureka.client.registerWithEureka.fetchRegistry: true
-spring.eureka.client.registerWithEureka.serviceUrl.defaultZone: http://172.31.86.136:8765/eureka
+spring.eureka.client.registerWithEureka.serviceUrl.defaultZone: http://172.31.86.136:8761/eureka
 spring.jpa.database: "MYSQL"
 spring.datasource.platform: "MYSQL"
 spring.jpa.show-sql: "false"
